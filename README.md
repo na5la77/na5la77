@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **shadinakhla13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1keAtr87CUi_ARthIg2wQ-Ezb_VPpNyi7/view?usp=share_link](https://drive.google.com/file/d/1keAtr87CUi_ARthIg2wQ-Ezb_VPpNyi7/view?usp=share_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1RmXlsFQCvPhDRxT4PivX8_adlVaz466P/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
