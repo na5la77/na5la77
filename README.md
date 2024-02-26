@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shadi</h1>
 <h3 align="center">A graduate from the German University in Cairo with a Software Engineering Bachelors degree and a Software Engineer @Sumerge</h3>
 
-- 🌱 I’m currently learning **React, Web Design, Angular and nodeJS**
+- 🌱 I’m currently learning **React, Web Design, NestJS and NextJS**
 
 - 📫 How to reach me **shadinakhla13@gmail.com**
 
